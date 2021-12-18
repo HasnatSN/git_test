@@ -1,1 +1,1 @@
-This is just some random text for the sake of testing my git skills. 
+This is just some random text for the sake of testing. 
